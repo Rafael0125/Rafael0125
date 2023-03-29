@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# 💫 Sobre Mim:
 Oi meu nome é Rafael Navarro,<br>Desenvolvedor Web front-end,<br>Apaixonado por desenvolvimento Web e suas tecnologias<br>Formado em HTML, CSS e JavaScript, com especialização em Bootstrap 4 e 5<br>Após o estudo e desenvolvimento de aplicações para a Web decidi focar em aprender Angular<br>Usando o framework me identifiquei muito com a metodologia e forma de desenvolvimento<br>Então me aprofundei no desenvolvimento usando o Angular para desenvolver SPA's de uma forma mais dinâmica e estruturada<br><br><br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfl_coding) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-navarro-209462180) 
 
 # 💻 Tech Stack:
